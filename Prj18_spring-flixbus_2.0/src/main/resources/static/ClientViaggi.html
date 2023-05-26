@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>VIAGGI</h1>
+<script>
+    const URL="http://localhost:9015/api/Viaggi"
+    fetch(URL)
+        .then(res => res.json())
+        .then(risposta => {
+            console.log(risposta)
+            for (const Viaggio of risposta) {
+                console.log(viaggio.destinazione)
+            }
+        })
+</script>
+</body>
+</html>

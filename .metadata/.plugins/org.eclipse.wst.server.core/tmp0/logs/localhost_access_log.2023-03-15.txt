@@ -1,0 +1,15 @@
+127.0.0.1 - - [15/Mar/2023:10:57:07 +0100] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:10:57:09 +0100] "GET /Prj10_WebAppFinance/index.jsp HTTP/1.1" 200 154
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:10:57:09 +0100] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:11:33:25 +0100] "GET /Prj10_WebAppFinance/index.jsp HTTP/1.1" 200 152
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:11:41:41 +0100] "GET /Prj10_WebAppFinance/index.jsp HTTP/1.1" 200 407
+127.0.0.1 - - [15/Mar/2023:12:38:32 +0100] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:12:38:32 +0100] "GET /Prj10_WebAppFinance/azioni HTTP/1.1" 200 11
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:12:42:10 +0100] "GET /Prj10_WebAppFinance/azioni?nome=leonardo&cognome=diana HTTP/1.1" 200 11
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:12:45:54 +0100] "GET /Prj10_WebAppFinance/azioni?nome=leonardo&cognome=diana HTTP/1.1" 200 11
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:12:45:56 +0100] "GET /Prj10_WebAppFinance/azioni?nome=leonardo&cognome=diana HTTP/1.1" 200 11
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:12:50:04 +0100] "GET /Prj10_WebAppFinance/index.jsp HTTP/1.1" 200 407
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:12:50:08 +0100] "GET /Prj10_WebAppFinance/azioni?nome=leonardo&cognome=diana HTTP/1.1" 200 175
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:12:50:11 +0100] "GET /Prj10_WebAppFinance/index.jsp HTTP/1.1" 200 407
+127.0.0.1 - - [15/Mar/2023:12:52:39 +0100] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:12:52:40 +0100] "GET /Prj10_WebAppFinance/lista.jsp HTTP/1.1" 200 244

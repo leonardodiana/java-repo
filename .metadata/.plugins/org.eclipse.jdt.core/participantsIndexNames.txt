@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\ICTS22-24.473\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\617981434.index
+\Prj10_WebAppFinance\src\main\java
+C:\Users\ICTS22-24.473\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\117379290.index
+\Prj_Lbp\src\main\java

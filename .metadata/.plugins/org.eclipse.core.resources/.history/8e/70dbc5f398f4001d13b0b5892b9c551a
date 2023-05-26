@@ -1,0 +1,5 @@
+package com.diana.entities;
+
+public class Glossario {
+
+}

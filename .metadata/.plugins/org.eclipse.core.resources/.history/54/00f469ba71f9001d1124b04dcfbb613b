@@ -1,0 +1,5 @@
+package com.diana.controller;
+
+public class UserInput {
+
+}
