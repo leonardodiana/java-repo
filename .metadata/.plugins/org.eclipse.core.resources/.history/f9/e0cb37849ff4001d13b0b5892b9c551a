@@ -1,7 +1,0 @@
-package com.diana.repos;
-
-import org.springframework.data.jpa.repository.JpaRepository;
-
-public interface GlossarioDao extends JpaRepository<T, ID> {
-
-}

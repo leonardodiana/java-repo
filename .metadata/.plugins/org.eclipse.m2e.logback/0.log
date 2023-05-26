@@ -2337,3 +2337,32 @@
 2023-05-23 15:00:23,878 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-test/6.0.9/spring-test-6.0.9-sources.jar
 2023-05-23 15:00:23,935 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/6.0.9/spring-test-6.0.9-sources.jar
 2023-05-23 15:00:23,939 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-test:6.0.9
+2023-05-26 10:29:19,229 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-26 11:22:35,107 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-26 11:36:09,488 [Worker-1: Launching Prj18_spring-flixbus_2.0 - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-26 11:36:09,510 [Worker-1: Launching Prj18_spring-flixbus_2.0 - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-26 11:36:09,517 [Worker-1: Launching Prj18_spring-flixbus_2.0 - Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ICTS22-24.473\eclipse-workspace\java-repo\Prj18_spring-flixbus_2.0\src\test\resources
+2023-05-26 11:36:16,112 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-26 11:36:16,131 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-26 11:36:16,137 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ICTS22-24.473\eclipse-workspace\java-repo\Prj14_hello-spring\src\test\resources
+2023-05-26 11:36:17,375 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-26 11:36:17,377 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-26 11:36:17,380 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ICTS22-24.473\eclipse-workspace\java-repo\Prj15_spring-finance\src\test\resources
+2023-05-26 11:36:18,246 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-26 11:36:18,247 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-05-26 11:36:18,255 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ICTS22-24.473\eclipse-workspace\java-repo\Prj16_spring_books\src\test\resources
+2023-05-26 11:36:20,010 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-26 11:36:20,044 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources
+2023-05-26 11:36:20,231 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory W:\FSD_22-24\Comune\progettoFlixbus2\Prj17_spring-flixbus\src\test\resources
+2023-05-26 11:36:21,257 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-26 11:36:21,259 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-26 11:36:21,264 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ICTS22-24.473\eclipse-workspace\java-repo\Prj19_Popolazione\src\test\resources
+2023-05-26 11:36:22,029 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-26 11:36:22,031 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-26 11:36:22,034 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ICTS22-24.473\eclipse-workspace\java-repo\Prj20_EsercizioneFinanza\src\test\resources
+2023-05-26 11:36:25,660 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-26 11:36:25,662 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-26 11:36:25,666 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ICTS22-24.473\eclipse-workspace\java-repo\Prj_Lbp\src\test\resources
+2023-05-26 11:42:28,029 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-26 11:42:28,045 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-26 11:42:28,050 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ICTS22-24.473\eclipse-workspace\java-repo\Prj18_spring-flixbus_2.0\src\test\resources
